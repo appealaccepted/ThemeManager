@@ -175,19 +175,13 @@ do
                 [[{"FontColor":"00111f","MainColor":"e6f3ff","AccentColor":"2d8cff","BackgroundColor":"f9fcff","OutlineColor":"b8d4f0"}]]
             ),
         },
-        ["Crimson Mist [NEW]"] = {
-            23,
-            httpService:JSONDecode(
-                [[{"FontColor":"1a0b0b","MainColor":"f3f8ff","AccentColor":"ff3b3b","BackgroundColor":"ffffff","OutlineColor":"d4d4f0"}]]
-            ),
-        },
-        ["Crimson Storm [NEW]"] = {
+        ["Night Storm [NEW]"] = {
             24,
             httpService:JSONDecode(
                 [[{"FontColor":"f8f8f8","MainColor":"16161f","AccentColor":"ff3b3b","BackgroundColor":"0e0e14","OutlineColor":"2d3548"}]]
             ),
         },
-        
+
     }
 
     function ThemeManager:SetLibrary(library)
