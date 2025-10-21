@@ -164,15 +164,27 @@ do
             ),
         },
         ["Azure Dream [NEW]"] = {
-            22,
+            21,
             httpService:JSONDecode(
                 [[{"FontColor":"dff6ff","MainColor":"0a192f","AccentColor":"64ffda","BackgroundColor":"06121f","OutlineColor":"112d47"}]]
             ),
         },
         ["Skyline Mist [NEW]"] = {
-            28,
+            22,
             httpService:JSONDecode(
                 [[{"FontColor":"00111f","MainColor":"e6f3ff","AccentColor":"2d8cff","BackgroundColor":"f9fcff","OutlineColor":"b8d4f0"}]]
+            ),
+        },
+        ["Crimson Mist [NEW]"] = {
+            23,
+            httpService:JSONDecode(
+                [[{"FontColor":"1a0b0b","MainColor":"f3f8ff","AccentColor":"ff3b3b","BackgroundColor":"ffffff","OutlineColor":"d4d4f0"}]]
+            ),
+        },
+        ["Crimson Storm [NEW]"] = {
+            24,
+            httpService:JSONDecode(
+                [[{"FontColor":"f8f8f8","MainColor":"16161f","AccentColor":"ff3b3b","BackgroundColor":"0e0e14","OutlineColor":"2d3548"}]]
             ),
         },
         
